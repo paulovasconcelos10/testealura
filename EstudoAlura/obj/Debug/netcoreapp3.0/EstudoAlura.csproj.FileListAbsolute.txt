@@ -1,0 +1,11 @@
+C:\Users\pauli\source\repos\EstudoAlura\EstudoAlura\bin\Debug\netcoreapp3.0\EstudoAlura.exe
+C:\Users\pauli\source\repos\EstudoAlura\EstudoAlura\bin\Debug\netcoreapp3.0\EstudoAlura.deps.json
+C:\Users\pauli\source\repos\EstudoAlura\EstudoAlura\bin\Debug\netcoreapp3.0\EstudoAlura.runtimeconfig.json
+C:\Users\pauli\source\repos\EstudoAlura\EstudoAlura\bin\Debug\netcoreapp3.0\EstudoAlura.runtimeconfig.dev.json
+C:\Users\pauli\source\repos\EstudoAlura\EstudoAlura\bin\Debug\netcoreapp3.0\EstudoAlura.dll
+C:\Users\pauli\source\repos\EstudoAlura\EstudoAlura\bin\Debug\netcoreapp3.0\EstudoAlura.pdb
+C:\Users\pauli\source\repos\EstudoAlura\EstudoAlura\obj\Debug\netcoreapp3.0\EstudoAlura.csprojAssemblyReference.cache
+C:\Users\pauli\source\repos\EstudoAlura\EstudoAlura\obj\Debug\netcoreapp3.0\EstudoAlura.AssemblyInfoInputs.cache
+C:\Users\pauli\source\repos\EstudoAlura\EstudoAlura\obj\Debug\netcoreapp3.0\EstudoAlura.AssemblyInfo.cs
+C:\Users\pauli\source\repos\EstudoAlura\EstudoAlura\obj\Debug\netcoreapp3.0\EstudoAlura.dll
+C:\Users\pauli\source\repos\EstudoAlura\EstudoAlura\obj\Debug\netcoreapp3.0\EstudoAlura.pdb
