@@ -13,7 +13,7 @@ namespace EstudoAlura
 
         public override double GetBonificao()
         {
-            return Salario + base.GetBonificao();
+            return 3.0 * base.GetBonificao();
         }
 
         public override void AumentoSalario()

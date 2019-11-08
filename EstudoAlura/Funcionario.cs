@@ -4,7 +4,7 @@ using System.Text;
 
 namespace EstudoAlura
 {
-    class Funcionario
+     class  Funcionario
     {
         public string nome { get; set; }
         public double Salario { get; protected set; }
@@ -21,7 +21,7 @@ namespace EstudoAlura
 
         public virtual double GetBonificao()
         {
-            return Salario * 10.0;
+            return Salario ;
         }
 
         public virtual void AumentoSalario()

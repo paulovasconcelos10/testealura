@@ -6,8 +6,17 @@ namespace EstudoAlura
     {
         static void Main(string[] args)
         {
+
+            GeradorFuncionario();
+
+
+        }
+
+        public static void GeradorFuncionario()
+        {
+
             GerenciadorBonificacao gerenciador = new GerenciadorBonificacao();
-            Funcionario paulo = new Funcionario(2000);
+            Desenvolvedor paulo = new Desenvolvedor();
             paulo.nome = "paulo";
 
             gerenciador.somaBonificacao(paulo);
@@ -16,7 +25,7 @@ namespace EstudoAlura
 
             Diretor vitor = new Diretor();
             vitor.nome = "vitor";
-   
+
             gerenciador.somaBonificacao(vitor);
             Console.WriteLine(Funcionario.totalFuncionario);
 
@@ -36,7 +45,6 @@ namespace EstudoAlura
 
             Console.WriteLine("Total de bonificao: " + gerenciador.GetTotalBonificao());
 
-            
         }
 
 
